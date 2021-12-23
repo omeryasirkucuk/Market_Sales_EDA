@@ -6,7 +6,7 @@ In order to share my understanding of the concepts and techniques I know, I will
 
 # Dataset
 
-[Documentation](https://www.kaggle.com/omercolakoglu)
+[Turkish Market Sales Dataset With 9.000+Items](https://www.kaggle.com/omercolakoglu/turkish-market-sales-dataset-with-9000items)
 
 
 
