@@ -9,4 +9,12 @@ In order to share my understanding of the concepts and techniques I know, I will
 [Turkish Market Sales Dataset With 9.000+Items](https://www.kaggle.com/omercolakoglu/turkish-market-sales-dataset-with-9000items)
 
 
+# Quick Overview
+
+Data overview
+Analysis of categorical and numerical variables
+Correlation analysis
+Grouping and aggregation of datas for some insights
+Visualization
+
 
